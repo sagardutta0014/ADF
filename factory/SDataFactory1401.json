@@ -1,0 +1,9 @@
+{
+	"name": "SDataFactory1401",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41eaf505-5928-4bc4-ac59-1e65c9ef5917",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
