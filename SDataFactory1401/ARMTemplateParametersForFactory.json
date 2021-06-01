@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "SDataFactory1401"
+		},
+		"RestService1_properties_typeProperties_url": {
+			"value": "https://support.oneskyapp.com/hc/en-us/articles/208047697-JSON-sample-files"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://sdaccount1.dfs.core.windows.net"
+		}
+	}
+}
